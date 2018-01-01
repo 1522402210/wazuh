@@ -55,6 +55,34 @@
           "title": "sample"
         }
       }
+    },
+    "vuls":{
+      "last_modified":"sample",
+      "detection_method":"sample",
+      "kernel_version":"sample",
+      "scan_date":"sample",
+      "affected_packages":"sample",
+      "integration":"sample",
+      "os_version":"sample",
+      "score":"sample",
+      "link":"sample",
+      "source":"sample",
+      "scanned_cve":"sample",
+      "tittle":"sample",
+      "assurance":"sample",
+      "event":"sample",
+      "days":"sample",
+      "affected_packages_info": {
+        "sample":{
+            "new_version":"sample",
+            "repository":"sample",
+            "version":"sample",
+            "release":"sample",
+            "fixable":"sample",
+            "new_release":"sample",
+            "arch":"sample"
+        }
+      }
     }
   },
   "rule": {

@@ -590,6 +590,80 @@
                 }
               }
             }
+          },
+          "vuls": {
+            "last_modified": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "detection_method": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "kernel_version": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "vuls.scan_date": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "affected_packages": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "integration": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "os_version": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "score": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "link": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "source": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "scanned_cve": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "tittle": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "tittle": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "tittle": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "assurance": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "affected_packages_info": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "event": {
+              "type": "keyword",
+              "doc_values": "true"
+            },
+            "days": {
+              "type": "keyword",
+              "doc_values": "true"
+            }
           }
         },
         "program_name": {
